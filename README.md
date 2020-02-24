@@ -1,7 +1,7 @@
 # techtest
 Este repositório contém minha análise feita sobre um conjunto de dados de corretoras de imóveis, como etapa para processo de seleção.
 
-Tech_Test.ipynb - Notebook contendo a análise. O documento foi criado utilizando o Google Colab. É possivel visualizar a análise sem rodar os códigos, já que todos os outputs estão salvos no notebook. 
+[Tech_Test.ipynb](https://github.com/marcellongvb/techtest/blob/master/Tech_Test.ipynb) - Notebook contendo a análise. O documento foi criado utilizando o Google Colab. É possivel visualizar a análise sem rodar os códigos, já que todos os outputs estão salvos no notebook. 
 
 Caso se deseje reproduzir os códigos:
 1. Importe o notebook Tech_Test.ipynb para o Google Colab.
