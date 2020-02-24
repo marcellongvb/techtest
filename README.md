@@ -6,5 +6,6 @@ Este repositório contém minha análise feita sobre um conjunto de dados de cor
 Caso se deseje reproduzir os códigos:
 1. Importe o notebook Tech_Test.ipynb para o Google Colab.
 2. Baixe o arquivo de dados através do link: https://drive.google.com/open?id=16Vx460ZqjR_lInF3IjOtG5VkIkfBQvK2
-3. Adicione o arquivo de dados ao google drive da conta associada em My Drive/realties.json (pasta principal do Drive do usuário). 
-Obs: O notebook já importa automaticamente os dados caso ele esteja no diretório correto do Google Drive.
+3. Adicione o arquivo de dados ao seu Google Drive, em My Drive/realties.json (pasta principal do Google Drive). 
+
+O notebook já importa automaticamente os dados caso eles estejam no diretório correto do Google Drive.
